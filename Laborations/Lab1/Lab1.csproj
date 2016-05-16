@@ -94,6 +94,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\volleyball-art-work.jpg" />
     <Content Include="Media1.html" />
     <Content Include="Media2.html" />
     <Content Include="Media3.html" />
