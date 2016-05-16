@@ -94,7 +94,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Discover the tag world.html" />
+    <Content Include="Discoverthetagworld.html" />
+    <Content Include="Images\12715682_10153529886049069_5268113490558027568_n.jpg" />
+    <Content Include="Images\tableoftables.png" />
     <Content Include="Images\volleyball-art-work.jpg" />
     <Content Include="Media1.html" />
     <Content Include="Media2.html" />
