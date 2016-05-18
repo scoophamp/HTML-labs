@@ -95,20 +95,31 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Discoverthetagworld.html" />
-    <Content Include="Images\12715682_10153529886049069_5268113490558027568_n.jpg" />
-    <Content Include="Images\tableoftables.png" />
-    <Content Include="Images\volleyball-art-work.jpg" />
+    <Content Include="HTMLpages\Discoverthetagworld.html" />
+    <Content Include="HTMLpages\Media1.html" />
+    <Content Include="HTMLpages\Media2.html" />
+    <Content Include="HTMLpages\Media3.html" />
+    <Content Include="HTMLpages\Media4.html" />
+    <Content Include="HTMLpages\Soccer.html" />
+    <Content Include="HTMLpages\Tennis.html" />
+    <Content Include="HTMLpages\Volleyball.html" />
     <Content Include="Media1.html" />
     <Content Include="Media2.html" />
     <Content Include="Media3.html" />
     <Content Include="Media4.html" />
+    <Content Include="Soccer.html" />
+    <Content Include="Tennis.html" />
+    <Content Include="Volleyball.html" />
+    <Content Include="HTMLpages\Images\12715682_10153529886049069_5268113490558027568_n.jpg" />
+    <Content Include="HTMLpages\Images\tableoftables.png" />
+    <Content Include="HTMLpages\Images\volleyball-art-work.jpg" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Images\Maldive3.ogv" />
-    <Content Include="Images\MrBean.ogv" />
-    <Content Include="Images\MrBean.webm" />
+    <Content Include="HTMLpages\Images\Maldive3.ogv" />
+    <Content Include="HTMLpages\Images\MrBean.ogv" />
+    <Content Include="HTMLpages\Images\MrBean.webm" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -117,21 +128,19 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Images\hd-wallpaper-cool.jpg" />
-    <Content Include="Images\Maldive3.mp4" />
-    <Content Include="Images\MrBean.mp4" />
-    <Content Include="Images\NeonHeart-EndlessGrace.mp3" />
+    <Content Include="HTMLpages\Images\hd-wallpaper-cool.jpg" />
+    <Content Include="HTMLpages\Images\Maldive3.mp4" />
+    <Content Include="HTMLpages\Images\MrBean.mp4" />
+    <Content Include="HTMLpages\Images\NeonHeart-EndlessGrace.mp3" />
     <Content Include="index.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
-    <Content Include="Soccer.html" />
-    <Content Include="Tennis.html" />
-    <Content Include="Volleyball.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
