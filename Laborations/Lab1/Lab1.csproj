@@ -94,7 +94,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Discoverthetagworld.html" />
     <Content Include="HTMLpages\Discoverthetagworld.html" />
     <Content Include="HTMLpages\Media1.html" />
     <Content Include="HTMLpages\Media2.html" />
@@ -103,13 +102,6 @@
     <Content Include="HTMLpages\Soccer.html" />
     <Content Include="HTMLpages\Tennis.html" />
     <Content Include="HTMLpages\Volleyball.html" />
-    <Content Include="Media1.html" />
-    <Content Include="Media2.html" />
-    <Content Include="Media3.html" />
-    <Content Include="Media4.html" />
-    <Content Include="Soccer.html" />
-    <Content Include="Tennis.html" />
-    <Content Include="Volleyball.html" />
     <Content Include="HTMLpages\Images\12715682_10153529886049069_5268113490558027568_n.jpg" />
     <Content Include="HTMLpages\Images\tableoftables.png" />
     <Content Include="HTMLpages\Images\volleyball-art-work.jpg" />
