@@ -25,6 +25,7 @@ img{
     margin:auto;
     width:100px;
     height:100px;
+    
 }
 img:hover{
     border:2px solid black;
@@ -42,4 +43,17 @@ h1{
     margin:20px;
     color:floralwhite;
     text-decoration:wavy;   
+}
+#flakes{
+    margin:auto;
+    width:100px;
+    height:100px;
+    
+}
+aside{
+    background-color:lightsteelblue;
+    width:100px;
+    height:100px;
+    
+    margin-right:100%;
 }
