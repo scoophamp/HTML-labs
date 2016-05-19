@@ -12,23 +12,37 @@
     </header>
     <fieldset>
         <legend>Login</legend>
-        <form action="login.html">
+        <form>
                 Username: <input type="text" name="username" required/>
                 Email: <input type="email" name="email" required/>
                 Password <input type="password" name="password" required/>
-        </form>
+            <input type="submit" value="Login">
+        </form> 
         </fieldset>
         <fieldset>
             <legend>New user</legend>
         <form>
             Name: <input type="text" name="name">
             Street: <input type="text" name="street" />
-            Zip: <input type="number" name="zip" />
-            Town: <input type="text" name="phone" />
-            Phone: <input type="number"
-            zip, town, phone number
+            Zip: <input type="text" name="zip" />
+            Town: <input type="text" name="town" />
+            Phone: <input type="text" name="phone" />
+            <input type="submit" value="Become a Member">
         </form>
     </fieldset>
+    <fieldset>
+        <legend>Paymentinfo</legend>
+        <form>
+            Name: <input type="text" name="payname" />
+            Street: <input type="text"  name="paystreet" />
+            Zip: <input type="text" name="payzip" />
+            Phone: <input type="text" name="payphone" />
+            Zip: <input type="text" name="payzip" />
+            Project Nr <input type="text" name="projectnr">
+            <input type="submit" value="Pay">
+         </form>
+    </fieldset>
+    
 
 </body>
 </html>
