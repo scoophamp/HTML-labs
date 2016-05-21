@@ -122,3 +122,29 @@
     bottom:374px;
     left:30px;
 }
+#apps5 div{
+    border: 1px solid #808080;
+    width:25px;
+    height:25px;
+    border-radius:30%;
+    position:relative;
+    left:13px;
+    bottom:70px;
+    margin-bottom:5px;
+    margin-right:5px;
+    float:left;
+    
+}
+#app1b{
+    background-color:greenyellow;  
+}
+#app2b{
+    background-color:royalblue;
+}
+#app3b{
+    background-color:orangered;
+}
+
+#app4b{
+    background-color:sandybrown;
+}
