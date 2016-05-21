@@ -1,0 +1,124 @@
+﻿body {
+}
+#area{
+    background-color:white;
+    border: 1px solid black;
+    width:150px;
+    height:300px;
+    border-radius:10%;
+}
+#camera{
+    border:1px solid #524c4c;
+    width:5px;
+    height:5px;
+    border-radius:90%;
+    position:relative;
+    left:45%;
+    top:5%;
+    background-color:black;
+}
+#earspeaker{
+    border:1px solid black;
+    width:35px;
+    height:3px;
+    position:relative;
+    left:35%;
+    top:6%;
+    border-radius:30%;
+    background-color:black;
+}
+#screen{
+    background-color:white;
+    border: 1px solid black;
+    width:140px;
+    height:220px;
+    border-radius:5%;
+    position:relative;
+    left:2%;
+    top:9%;
+}
+#button{
+      background-color:white;
+    border: 1px solid black;
+    width:23px;
+    height:23px;
+    border-radius:90%;
+    position:relative;
+    left:41%;
+    top:11%;
+}
+#imgbutton{
+ background-color:white;
+    border: 1px solid #808080;
+    width:12px;
+    height:12px;
+    border-radius:30%;
+    position:relative;
+    left:20%;
+    top:18%;
+}
+#apps{
+    position:relative;
+    top:10px;
+    right:60px;
+}
+
+#apps div{
+     background-color:white;
+    border: 1px solid #808080;
+    width:25px;
+    height:25px;
+    border-radius:30%;
+    position:relative;
+    left:50%;
+    margin-bottom:5px;
+    margin-right:5px;
+}
+#apps2 div{
+     background-color:white;
+    border: 1px solid #808080;
+    width:25px;
+    height:25px;
+    border-radius:30%;
+    position:relative;
+    left:50%;
+    margin-bottom:5px;
+    margin-right:5px;
+}
+#apps2{
+     position:relative;
+    bottom:118px;
+    right:30px;
+}
+#apps3 div{
+     background-color:white;
+    border: 1px solid #808080;
+    width:25px;
+    height:25px;
+    border-radius:30%;
+    position:relative;
+    left:50%;
+    margin-bottom:5px;
+    margin-right:5px;
+}
+#apps3{
+     position:relative;
+    bottom:246px;
+    left:0px;
+}
+#apps4 div{
+     background-color:white;
+    border: 1px solid #808080;
+    width:25px;
+    height:25px;
+    border-radius:30%;
+    position:relative;
+    left:50%;
+    margin-bottom:5px;
+    margin-right:5px;
+}
+#apps4{
+     position:relative;
+    bottom:374px;
+    left:30px;
+}
