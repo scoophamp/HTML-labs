@@ -1,4 +1,36 @@
 ﻿@charset 'utf-8;';
-body {
+body screen{
+    background-color:red;
 }
+@media only screen and (max-widht:768){
+    body{
+        background-color:red;
+    }
+}
+@media only screen and (max-widht:480){
+    body{
+        background-color:blue;
+    }
+}@media only screen and (max-widht:768){
+    body{
+        background-color:green;
+    }
+}@media only screen and (max-widht:768){
+    body{
+        background-color:hotpink;
+    }
+}
+#dator{
+    background-color:red;
+}
+#padda{
+    background-color:blue;
+}
+#mobil{
+    background-color:green;
+}
+#print{
+    background-color:hotpink;
+}
+
 
