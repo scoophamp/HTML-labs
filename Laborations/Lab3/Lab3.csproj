@@ -94,11 +94,14 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HTML-pages\DingelingPostIt.html" />
     <Content Include="HTML-pages\ResponsiveSite.html" />
     <Content Include="HTML-pages\SimpleHTML.html" />
     <Content Include="Images\example2.PNG" />
     <Content Include="Images\example3.PNG" />
     <Content Include="Images\example4.PNG" />
+    <Content Include="Images\postit.PNG" />
+    <Content Include="Images\postit2.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -115,6 +118,7 @@
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="Styles\iStyle.css" />
+    <Content Include="Styles\PostIt.css" />
     <Content Include="Styles\Stiligt.css" />
     <Content Include="Web.config" />
   </ItemGroup>
