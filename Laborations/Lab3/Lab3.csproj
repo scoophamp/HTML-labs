@@ -95,6 +95,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HTML-pages\ResponsiveSite.html" />
+    <Content Include="HTML-pages\SimpleHTML.html" />
+    <Content Include="Images\example2.PNG" />
+    <Content Include="Images\example3.PNG" />
+    <Content Include="Images\example4.PNG" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -117,6 +121,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

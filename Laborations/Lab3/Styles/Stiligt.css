@@ -98,3 +98,27 @@
         display: none;
     }
 }
+img{
+    height:30%;
+    width:30%;
+}
+ul{
+    display:inline;
+}
+li{
+    list-style:none;
+    width:100%;
+    background-color:gray;
+    border:1px solid black;
+    border-radius:10%;
+}
+article{
+    width:80%;
+    height:80%;
+}
+ul a{
+    text-decoration:none;
+    position:relative;
+    left:25%;
+    
+}
