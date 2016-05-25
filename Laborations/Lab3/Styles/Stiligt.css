@@ -1,36 +1,100 @@
-﻿@charset 'utf-8;';
-body screen{
-    background-color:red;
-}
-@media only screen and (max-widht:768){
-    body{
-        background-color:red;
-    }
-}
-@media only screen and (max-widht:480){
-    body{
-        background-color:blue;
-    }
-}@media only screen and (max-widht:768){
-    body{
-        background-color:green;
-    }
-}@media only screen and (max-widht:768){
-    body{
-        background-color:hotpink;
-    }
-}
-#dator{
-    background-color:red;
-}
-#padda{
-    background-color:blue;
-}
-#mobil{
-    background-color:green;
-}
-#print{
-    background-color:hotpink;
+﻿body {
+    background-color: gray;
 }
 
 
+#padda {
+    display: none;
+    font-family: 'Times New Roman', Times, serif, 'Comic Sans MS';
+}
+
+
+#mobil {
+    display: none;
+    font-family: Arial, Helvetica, sans-serif,'Comic Sans MS';
+}
+
+
+
+#print {
+    display: none;
+    font-family: 'Comic Sans MS',Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        background-color: red;
+    }
+
+
+    #padda {
+        display: block;
+    }
+
+
+    #mobil {
+        display: none;
+    }
+
+
+    #print {
+        display: none;
+    }
+
+
+    #dator {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    body {
+        background-color: purple;
+    }
+
+
+    #padda {
+        display: none;
+    }
+
+
+    #mobil {
+        display: block;
+    }
+
+    #print {
+        display: none;
+    }
+
+
+    #dator {
+        display: none;
+    }
+}
+
+
+@media only print {
+    body {
+        background-color: white;
+    }
+
+
+    #padda {
+        display: none;
+    }
+
+
+    #mobil {
+        display: none;
+    }
+
+
+    #print {
+        display: block;
+    }
+
+
+    #dator {
+        display: none;
+    }
+}
