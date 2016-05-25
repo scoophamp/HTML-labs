@@ -1,16 +1,25 @@
 ﻿body {
+    
+}
+#show{
+    display:none;
 }
 div{
     background-color:yellow;
     border:1px solid black;
     width:120px;
     height:120px;
-    border-radius:10% 0% 10% 10%;
+    
     box-shadow:rgba(150,150,150,.8)10px 10px;
-    transform:rotate(80deg);
-    
-    
+    transform:rotate(2deg);  
+}
+div:hover #show{
+   
+    display:block; 
 }
 div:hover{
-    background-color:greenyellow;
+     background-color:greenyellow;
+    width:200px;
+    height:200px;
 }
+
