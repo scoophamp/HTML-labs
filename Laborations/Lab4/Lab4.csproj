@@ -99,8 +99,36 @@
     <Content Include="HTML-pages\DreamPhotos.html" />
     <Content Include="HTML-pages\Links.html" />
     <Content Include="HTML-pages\ReceptionStaff.html" />
-    <Content Include="HTML-pages\ThePhiPhiGames.html" />
+    <Content Include="HTML-pages\Themaldivesgame.html" />
     <Content Include="HTML-pages\VideoSnap.html" />
+    <Content Include="Images\Background\HAVHAV2.png" />
+    <Content Include="Images\Background\MOLNfor.png" />
+    <Content Include="Images\Background\palm.png" />
+    <Content Include="Images\DreamImages\huhohio - Copy.PNG" />
+    <Content Include="Images\DreamImages\huhohio.PNG" />
+    <Content Include="Images\DreamImages\jjyvjb - Copy.PNG" />
+    <Content Include="Images\DreamImages\jjyvjb.PNG" />
+    <Content Include="Images\DreamImages\kugku - Copy.PNG" />
+    <Content Include="Images\DreamImages\kugku.PNG" />
+    <Content Include="Images\DreamImages\kugukgg - Copy %282%29.PNG" />
+    <Content Include="Images\DreamImages\kugukgg - Copy.PNG" />
+    <Content Include="Images\DreamImages\kugukgg.PNG" />
+    <Content Include="Images\DreamImages\lhlihl - Copy - Copy.PNG" />
+    <Content Include="Images\DreamImages\lhlihl - Copy.PNG" />
+    <Content Include="Images\DreamImages\lhlihl.PNG" />
+    <Content Include="Images\DreamImages\muuu - Copy.PNG" />
+    <Content Include="Images\DreamImages\muuu.PNG" />
+    <Content Include="Images\DreamImages\ojjj - Copy.PNG" />
+    <Content Include="Images\DreamImages\ojjj.PNG" />
+    <Content Include="Images\DreamImages\oooooooooo - Copy.PNG" />
+    <Content Include="Images\DreamImages\oooooooooo.PNG" />
+    <Content Include="Images\DreamImages\ugkgukuukk - Copy.PNG" />
+    <Content Include="Images\DreamImages\ugkgukuukk.PNG" />
+    <Content Include="Images\DreamImages\uhuuuh - Copy.PNG" />
+    <Content Include="Images\DreamImages\uhuuuh.PNG" />
+    <Content Include="Images\DreamImages\ukbu.PNG" />
+    <Content Include="Images\DreamImages\VideoSnap.html" />
+    <Content Include="Images\DreamImages\yvuyv.PNG" />
     <Content Include="Index.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
@@ -122,7 +150,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Images\" />
     <Folder Include="Style\" />
   </ItemGroup>
   <PropertyGroup>
