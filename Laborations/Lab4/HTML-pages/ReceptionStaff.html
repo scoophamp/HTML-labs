@@ -7,7 +7,10 @@
     <meta name="description" content="best vacation place" />
     <meta name="author" content="Hampus Cousin" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <script src="../scripts/jquery-1.9.1.min.js"></script>
+    <script src="../scripts/bootstrap.min.js"></script>
     <link href="../Content/bootstrap.css" rel="stylesheet" />
+
 
     <link href="../Style/StiffItup.css" rel="stylesheet" />
 </head>
@@ -15,23 +18,58 @@
     <div class="container-fluid">
         <div class="jumbotron">
             <header>
+                <nav class="navbar navbar-default  navbar-fixed-top">
+                    <div class="container-fluid">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <h1><a class="navbar-brand" href="#top">Foddhoo Island</a></h1>
+                        </div><!-- /.container-fluid -->
 
-                <nav>
-                    <ul>
-                        <li><a href="../Index.html">Home</a></li>
-                        <li><a href="DreamPhotos.html">Dream Photos</a></li>
-                        <li><a href="CustomersReviews.html">Reviews</a></li>
-                        <li><a href="ReceptionStaff.html">Staff</a></li>
-                        <li><a href="Themaldivesgame.html">The Maldives Game</a></li>
-                        <li><a href="Links.html">Links</a></li>
-                        <li><a href="Contact.html">Contact</a></li>
-                        <li><a href="VideoSnap.html">VideoSnap</a></li>
-
-                    </ul>
+                        <div class="collapse navbar-collapse" id="navigation">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a href="../index.html">Home</a></li>
+                                <li><a href="Contact.html">Contact</a></li>
+                                <li><a href="CustomersReview.html">Customers Review</a></li>
+                                <li><a href="DreamPhotos.html">Dream Photos</a></li>
+                                <li><a href="Links.html">Links</a></li>
+                                <li><a href="ReceptionStaff.html">Reception/Staff</a></li>
+                                <li><a href="VideoSnap.html">VideoSnap</a></li>
+                                <li><a href="TheMaldiveGame.html">The Maldive Game</a></li>
+                            </ul>
+                        </div>
+                    </div>
                 </nav>
             </header>
         </div>
-        <div class="container">
+        <div class="row">
+            <div class="container">
+
+                <div class="col-md-4">
+                    <figure>
+                        <img src="../Images/Staff/linda.PNG" />
+                        <figcaption><strong>Linda</strong> is our guide for the tourists.</figcaption>
+                    </figure>
+                </div>
+                <div class="col-md-4">
+                    <figure>
+                        <img src="../Images/Staff/per.PNG" />
+                        <figcaption><strong>Per</strong> is the janitor of the island.</figcaption>
+                    </figure>
+                </div>
+                <div class="col-md-4">
+                    <figure>
+                        <img src="../Images/Staff/maria.PNG" />
+                        <figcaption><strong>Maria</strong> is your receptionist.</figcaption>
+                    </figure>
+                </div>
+
+
+            </div>
 
         </div>
         <footer></footer>

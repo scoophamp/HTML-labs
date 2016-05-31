@@ -110,6 +110,9 @@
     <Content Include="Images\Background\MOLNfor.png" />
     <Content Include="Images\Background\palm.png" />
     <Content Include="Images\Background\reception.PNG" />
+    <Content Include="Images\Background\scratched-wood.jpg" />
+    <Content Include="Images\Background\wildtextures-old-wood-original-file-1280x853.jpg" />
+    <Content Include="Images\Background\woodie.PNG" />
     <Content Include="Images\DreamImages\huhohio - Copy.PNG" />
     <Content Include="Images\DreamImages\huhohio.PNG" />
     <Content Include="Images\DreamImages\jjyvjb - Copy.PNG" />
@@ -135,6 +138,9 @@
     <Content Include="Images\DreamImages\ukbu.PNG" />
     <Content Include="Images\DreamImages\VideoSnap.html" />
     <Content Include="Images\DreamImages\yvuyv.PNG" />
+    <Content Include="Images\Staff\linda.PNG" />
+    <Content Include="Images\Staff\maria.PNG" />
+    <Content Include="Images\Staff\per.PNG" />
     <Content Include="Index.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
@@ -165,6 +171,8 @@
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="Style\flips.css" />
+    <Content Include="Style\ForLinkSite.css" />
+    <Content Include="Style\ForStaff.css" />
     <Content Include="Style\StiffItup.css" />
     <Content Include="Web.config" />
   </ItemGroup>

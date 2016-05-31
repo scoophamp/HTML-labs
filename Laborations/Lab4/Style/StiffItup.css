@@ -1,22 +1,37 @@
 ﻿body {
+   background-color:antiquewhite;
 }
-header li{
-    list-style:none;
-    display:inline;
-    margin:2%;
-    
+header div{
+    background-color:#ffffff;
+    }
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #92cf7b;
 }
-.jumbotron{
-    background-color:black;
-    
+.navbar-default .navbar-nav > li > a:hover {
+    color: #92cf7b;
 }
-li a{
-    color:white;
+#bk{
+     position: fixed; 
+  top: 0; 
+  left: 0; 
+	
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
 }
-li a:hover{
-    text-decoration:none;
-    color:#82e791;
+footer{
+     position:fixed;
+    height:10%;
+    background-color:#ffffff;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
+    color:#abaaaa;
 }
+
 
 
 

@@ -1,0 +1,16 @@
+﻿body  {
+   
+}
+.container a{
+    color:white;
+    text-decoration:none;
+}
+.container a:hover{
+    color:#92cf7b;
+}
+
+article{
+    background-color:gray;
+    border:1px solid black;
+    border-radius:15%;
+}
