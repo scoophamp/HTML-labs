@@ -94,6 +94,11 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HTML-pages\learnaboutinput1.html" />
+    <Content Include="HTML-pages\learnaboutinput2.html" />
+    <Content Include="HTML-pages\learnaboutinput3.html" />
+    <Content Include="HTML-pages\learnaboutinput4.html" />
+    <Content Include="HTML-pages\learnaboutinput5.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

@@ -1,18 +1,23 @@
 ﻿body {
 }
-.container, .box{
-    display:flex;
-    -webkit-flex-wrap:wrap;
-    -ms-flex-wrap:wrap;
-    flex-wrap:wrap;
-}
-.box img{
+header li{
+    list-style:none;
+    display:inline;
+    margin:2%;
     
-    height:35vw;
-    width:37vw;
-    margin:1vw;
-    transition: 5s;
 }
+.jumbotron{
+    background-color:black;
+    
+}
+li a{
+    color:white;
+}
+li a:hover{
+    text-decoration:none;
+    color:#82e791;
+}
+
 
 
 
