@@ -4,7 +4,7 @@
 .album_container{
     /*containern som håller storleken*/
     position:relative;
-    margin:10px auto;
+    margin:10%;
     width:200px;
     height:200px;
     perspective:1000px;
@@ -31,10 +31,11 @@
     transform:rotateX(180deg);
     padding:10px;
     color:chocolate;
-    background-color:antiquewhite;
+    background-color:white;
+    border:1px solid black;
     backface-visibility:hidden;
 
 }
 .ett .album_container:hover .picture{
-    transform:rotateX(180deg)
+    transform:rotateX(180deg);
 }
