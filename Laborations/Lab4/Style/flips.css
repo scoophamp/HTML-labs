@@ -1,0 +1,38 @@
+﻿body {
+}
+
+.align1 {
+    width:200px;
+    height:300px;
+    position:relative;
+    font-size:7rem;
+    text-align:center;
+}
+
+.flip {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    transform-style: preserve-3d;
+    transition: transform 6s;
+}
+.container .align1 .flip div  {
+    margin: 0;
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+}
+
+
+
+.texter {
+    background-color: rebeccapurple;
+    transform: rotateY(1260deg);
+}
+
+.align1:hover {
+    transform: rotateY(1260deg);
+}
+

@@ -1,0 +1,34 @@
+﻿body {
+}
+.container, .box{
+    display:flex;
+    -webkit-flex-wrap:wrap;
+    -ms-flex-wrap:wrap;
+    flex-wrap:wrap;
+}
+.box img{
+    
+    height:35vw;
+    width:37vw;
+    margin:1vw;
+    transition: 5s;
+}
+
+#questionthing{
+    width:30vw;
+    height:30vw;
+}
+.flip{
+    margin:0;
+    display:block;
+    position:absolute;
+    width:100%;
+    height:100%;
+    backface-visibility:hidden;
+}
+.texter{
+    background-color:white;
+}
+
+
+
