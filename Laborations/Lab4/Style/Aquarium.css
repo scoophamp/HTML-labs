@@ -1,14 +1,61 @@
-﻿body {
-}
-#myaq{
-   height:80%;
-   width:100%;
-   position:relative;
-   top:1%;
- 
-}
-img{
-    width:50%;
-    height:10%;
+﻿canvas{
     position:absolute;
+    width:130%;
+    height:auto;
+    z-index:-1;
+    top:30%;
+}
+.aquarium .diver{
+    position:absolute;
+    top:30%;
+    width:10%;
+    height:auto;
+    z-index:1;  
+    right:70%;
+}
+.aquarium .moray{
+    width:5%;
+    height:auto;
+    position:absolute;
+    top:1%;
+    left:15%;
+    animation:moray 5s infinite;
+    z-index:1;
+
+}
+.aquarium .nurseshark{
+    position:absolute;
+    top:40%;
+    left:30%;
+    width:13%;
+    z-index:1;
+}
+.aquarium .stonefish{
+    position:absolute;
+    top:76%;
+    left:50%;
+    width:7%;
+    z-index:1;
+}
+@keyframes moray{
+    0%{
+        top:700px;
+        left:220px;
+    }
+    25%{
+        top:700px;
+        left:350px;
+    }
+    50%{
+        top:500px;
+        left:350px;
+    }
+    75%{
+        top:500px;
+        left:220px;
+    }
+    100%{
+        top:700px;
+        left:220px;
+    }
 }

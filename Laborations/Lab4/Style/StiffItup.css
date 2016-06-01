@@ -1,5 +1,6 @@
 ﻿body {
     background-color: antiquewhite;
+    background-image: url('../Images/Background/wildtextures-old-wood-original-file-1280x853.jpg');
 }
 
 
@@ -9,11 +10,15 @@ header div {
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    color: #92cf7b;
+    color: orangered;
+    text-shadow:2px 1px #ffd800;
+    
 }
 
+
 .navbar-default .navbar-nav > li > a:hover {
-    color: #92cf7b;
+    color: orangered;
+    text-shadow:2px 1px #ffd800;
 }
 
 #bk {
