@@ -48,35 +48,30 @@
         </div>
         <div class="row">
             <div class="container">
-                <div class="col-md-4">
-                    <article>
-                        <h2>Here you can contact us</h2>
-
-                        <p>First name: </p><input name="Fname" placeholder="First name" autofocus />
-
-                        <p>Last name: </p><input name="Lname" placeholder="Last name" />
-                    </article>
-                </div>
-                <div class="col-md-4">
-
-                    <article>
-                        <h2>Feel free to ask anything</h2><input id="questionthing" name="question" placeholder="Question.." />
-
-                        <button type="submit" value="send">send</button>
-
-                    </article>
-                </div>
-                    <div class="col-md-4">
-                        <article>
-                            <h2>You can also contact us via</h2>
-                            <p>0791233811 - 8-16 all days</p>
-                            <p>Foddhoo@island.som</p>
-                        </article>
-                    </div>
+                <form action="" method="get">
+                    <fieldset>
+                        <legend>Contact Details</legend>
+                        <label for="firstname">Firstname:</label>
+                        <input id="firstname" autofocus type="text" name="firstname" placeholder="Firstname" required />
+                        <br />
+                        <label for="lastname">Lastname:</label>
+                        <input id="lastname" type="text" name="lastname" placeholder="Lastname" required /><br />
+                        <label for="phonenumber">PhoneNumber:</label>
+                        <input id="phonenumber" type="tel" name="phonenumber" placeholder="PhoneNumber" required /><br />
+                        <label for="email">Email:</label>
+                        <input id="email" type="email" name="mail" placeholder="Email" required /><br />
+                        <select name="howSiteis">
+                            <option value="happy">😃</option>
+                            <option value="normal">🙂</option>
+                            <option value="sad">☹</option>
+                        </select>
+                        <input type="submit" value="Send" />
+                    </fieldset>
+                </form>
                 </div>
             </div>
         </div>
-    </div>
+    
     <div class="row">
         <div id="footie" class="container-fluid">
             <div class="col-md-12">
