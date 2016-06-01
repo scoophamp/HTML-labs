@@ -180,6 +180,7 @@
     <Content Include="Style\Aquarium.css" />
     <Content Include="Style\flips.css" />
     <Content Include="Style\ForContact.css" />
+    <Content Include="Style\ForIndex.css" />
     <Content Include="Style\ForLinkSite.css" />
     <Content Include="Style\ForReviewSite.css" />
     <Content Include="Style\ForStaff.css" />

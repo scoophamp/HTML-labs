@@ -1,0 +1,12 @@
+﻿body {
+}
+article{
+    position:absolute;
+    top:20%;
+    background-color:white;
+    text-align:center;
+    right:auto;
+    margin:5%;
+    left:1%;
+    border:1px solid black;
+}
