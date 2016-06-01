@@ -96,7 +96,6 @@
   <ItemGroup>
     <Content Include="HTML-pages\DingelingPostIt.html" />
     <Content Include="HTML-pages\ResponsiveSite.html" />
-    <Content Include="HTML-pages\SimpleHTML.html" />
     <Content Include="Images\example2.PNG" />
     <Content Include="Images\example3.PNG" />
     <Content Include="Images\example4.PNG" />

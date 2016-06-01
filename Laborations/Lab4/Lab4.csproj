@@ -155,6 +155,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="scripts\Aquarium.js" />
     <Content Include="scripts\bootstrap.js" />
     <Content Include="scripts\bootstrap.min.js" />
     <Content Include="scripts\jquery-1.9.1.js" />
@@ -171,6 +172,8 @@
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="scripts\Videosnap.js" />
+    <Content Include="scripts\Videosnap2.js" />
+    <Content Include="Style\Aquarium.css" />
     <Content Include="Style\flips.css" />
     <Content Include="Style\ForLinkSite.css" />
     <Content Include="Style\ForReviewSite.css" />
