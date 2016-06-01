@@ -106,6 +106,10 @@
     <Content Include="HTML-pages\ReceptionStaff.html" />
     <Content Include="HTML-pages\Themaldivesgame.html" />
     <Content Include="HTML-pages\VideoSnap.html" />
+    <Content Include="Images\Aquarium\Morayeel.png" />
+    <Content Include="Images\Aquarium\normal_ian-symbol-ginglymostoma-cirratum.png" />
+    <Content Include="Images\Aquarium\scuba-diver-hi.png" />
+    <Content Include="Images\Aquarium\Stonefish-Sprite.png" />
     <Content Include="Images\Background\HAVHAV2.png" />
     <Content Include="Images\Background\MOLNfor.png" />
     <Content Include="Images\Background\palm.png" />

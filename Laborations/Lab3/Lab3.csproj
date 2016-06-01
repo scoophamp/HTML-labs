@@ -101,6 +101,7 @@
     <Content Include="Images\example4.PNG" />
     <Content Include="Images\postit.PNG" />
     <Content Include="Images\postit2.png" />
+    <Content Include="index.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

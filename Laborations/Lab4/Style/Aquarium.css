@@ -1,6 +1,14 @@
 ﻿body {
 }
-.myaq{
-   height:80vw;
-   width:120vw;
+#myaq{
+   height:80%;
+   width:100%;
+   position:relative;
+   top:1%;
+ 
+}
+img{
+    width:50%;
+    height:10%;
+    position:absolute;
 }
