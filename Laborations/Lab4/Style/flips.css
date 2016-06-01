@@ -37,6 +37,6 @@
 
 }
 .ett .album_container:hover .picture{
-    transform:rotateX(180deg);
+    transform:rotateX(180deg) rotateY(360deg); 
 }
 

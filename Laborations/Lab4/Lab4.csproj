@@ -172,6 +172,7 @@
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="Style\flips.css" />
     <Content Include="Style\ForLinkSite.css" />
+    <Content Include="Style\ForReviewSite.css" />
     <Content Include="Style\ForStaff.css" />
     <Content Include="Style\StiffItup.css" />
     <Content Include="Web.config" />

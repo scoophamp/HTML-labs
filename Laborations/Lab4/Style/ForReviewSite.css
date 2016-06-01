@@ -1,0 +1,17 @@
+﻿body {
+}
+article{
+    background-color:white;
+    enable-background:accumulate;
+    font-family: 'Courgette', cursive;
+    background: repeating-linear-gradient(
+  
+  white,
+  #b6b4b4,
+  #fff 1px,
+  #fff 15px
+);
+}
+
+
+

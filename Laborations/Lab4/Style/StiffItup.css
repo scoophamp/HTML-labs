@@ -1,40 +1,32 @@
 ﻿body {
-   background-color:antiquewhite;
+    background-color: antiquewhite;
 }
-header div{
-    background-color:#ffffff;
-    }
+
+header div {
+    background-color: #ffffff;
+}
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
     color: #92cf7b;
 }
+
 .navbar-default .navbar-nav > li > a:hover {
     color: #92cf7b;
 }
-#bk{
-     position: fixed; 
-  top: 0; 
-  left: 0; 
-	
-  /* Preserve aspet ratio */
-  min-width: 100%;
-  min-height: 100%;
-}
-footer{
-     position:fixed;
-    height:10%;
-    background-color:#ffffff;
-    bottom:0px;
-    left:0px;
-    right:0px;
-    margin-bottom:0px;
-    color:#abaaaa;
+
+#bk {
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
 }
 
+footer {
+    
+    background-color: #ffffff;
+}
 
-
-
-
-
-
+   
