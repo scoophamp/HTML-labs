@@ -1,9 +1,10 @@
 ﻿canvas{
     position:absolute;
-    width:130%;
+    width:120%;
     height:auto;
     z-index:-1;
     top:30%;
+    
 }
 .aquarium .diver{
     position:absolute;
@@ -16,9 +17,9 @@
 .aquarium .moray{
     width:5%;
     height:auto;
-    position:absolute;
-    top:1%;
-    left:15%;
+    position:relative;
+    top:50%;
+    left:20%;
     animation:moray 5s infinite;
     z-index:1;
 
@@ -39,23 +40,23 @@
 }
 @keyframes moray{
     0%{
-        top:700px;
+        top:302px;
         left:220px;
     }
     25%{
-        top:700px;
+        top:200px;
         left:350px;
     }
     50%{
-        top:500px;
+        top:300px;
         left:350px;
     }
     75%{
-        top:500px;
+        top:200px;
         left:220px;
     }
     100%{
-        top:700px;
+        top:300px;
         left:220px;
     }
 }
