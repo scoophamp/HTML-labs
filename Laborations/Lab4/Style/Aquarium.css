@@ -1,4 +1,5 @@
-﻿canvas{
+﻿@charset 'utf-8';
+canvas{
     position:absolute;
     width:120%;
     height:auto;
@@ -8,7 +9,7 @@
 }
 .aquarium .diver{
     position:absolute;
-    top:30%;
+    top:40%;
     width:10%;
     height:auto;
     z-index:1;  

@@ -1,19 +1,21 @@
-﻿body  {
-   
-}
-.container a{
-    color:white;
-    text-decoration:none;
-}
-.container a:hover{
-    color:#92cf7b;
+﻿@charset 'utf-8';
+
+body {
 }
 
-article{
-    background-color:gray;
-    border:1px solid black;
-    border-radius:15%;
-    margin:5%;
-    text-align:center;
-    
+.container a {
+    color: white;
+    text-decoration: none;
+}
+
+    .container a:hover {
+        color: #92cf7b;
+    }
+
+article {
+    background-color: gray;
+    border: 1px solid black;
+    border-radius: 15%;
+    margin: 5%;
+    text-align: center;
 }
