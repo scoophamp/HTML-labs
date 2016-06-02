@@ -177,6 +177,7 @@
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="scripts\Videosnap.js" />
     <Content Include="scripts\Videosnap2.js" />
+    <Content Include="Sound\ocean-wave-1.mp3" />
     <Content Include="Style\Aquarium.css" />
     <Content Include="Style\flips.css" />
     <Content Include="Style\ForContact.css" />
